@@ -1,2 +1,3 @@
 # hello-world
-just my version of the venerable hello world
+just my version of the venerable hello world.
+Since it is mine, it is not so venerable...
